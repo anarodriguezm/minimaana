@@ -1,22 +1,10 @@
 ---
-layout: post
+layout: Detenidos cuatro atracadores en plena autovía A-66 cuando huían a toda velocidad
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+La Guardia Civil empleó en el operativo a medio centenar de agentes 
+La Guardia Civil ha detenido a cuatro atracadores tras tres robos en la provincia Cáceres en una operación espectacular realizada en plena autovía A-66 a la altura de Cañaveral (Cáceres), donde se les intervinieron dos armas de fuego cortas y un cuchillo que fueron utilizados para cometer los robos con intimidación en un comercio de alimentación de localidad de Aldea del Cano, en un estanco de Mirabel y en una farmacia de Holguera, todos cometidos el mismo día.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Los detenidos son cuatro hombres, de entre 28 y 41 años, residentes en la provincia de Badajoz. La Guardia Civil empleó en el operativo a medio centenar de agentes que pudieron detener a los atracados en plena carretera cuando se produjo una colisión entre el vehículo de los asaltantes con uno de los coches de la Guardia Civil que les perseguía.
